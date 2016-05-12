@@ -1,0 +1,28 @@
+name: TheStilwaterGroup
+favicon: null
+layout_spectrum: 0.9313226465601474
+typography_spectrum: 0.9182593910954893
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.459983040811494
+  lightness: 0.6234579214360565
+  saturation: 0.8147234518546611
+  rhythmicContrast: 0.43833216233178973
+purpose: []
